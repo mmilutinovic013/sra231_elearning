@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the sra231_elearning feature.
+ */
+
+include_once 'sra231_elearning.features.inc';
